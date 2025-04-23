@@ -1,7 +1,7 @@
 
 ## 🌐 Live Preview
 
-👉 [Click here to view the live project](https://yourusername.github.io/employee-dashboard/)
+👉 [Click here to view the live project](https://js-mfrs.netlify.app/)
 # 💼 Employee Management Dashboard (Vanilla JS)
 
 A responsive employee dashboard built using pure JavaScript, HTML, and CSS. This project demonstrates practical use of JavaScript’s powerful array methods such as `.map()`, `.filter()`, `.reduce()`, and `.sort()` with a real-world dataset structure.
